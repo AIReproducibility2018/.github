@@ -15,33 +15,34 @@
     {
       "id": 3,
       "title": "Development and investigation of efficient artificial bee colony algorithm for numerical function optimization",
-      "repo_url": "NEEDS CODE",
-      "commit": "NEEDS_CODE",
+      "repo_url": "https://github.com/AIReproducibility2018/DevelopmentInvestigationArtificalBeeColony",
+      "commit": "NEEDS CODE",
     },
     {
       "id": 4,
       "title": "Blind Image Quality Assessment: A natural scene statistics approach in the DCT domain",
-      "repo_url": "oc_google_drive",
+      "repo_url": "https://github.com/AIReproducibility2018/BlindImageQualityAssessment",
       "commit": "oc_google_drive",
       "note": "R4 TODO: define origin of method/experiment code"
     },
     {
       "id": 5,
       "title": "Cooperatively Coevolving particle swarm optimization for large scale optimization",
-      "repo_url": "oc_google_drive",
+      "repo_url": "https://github.com/AIReproducibility2018/CooperativelyCoevolvingPSO",
       "commit": "oc_google_drive",
     },
     {
       "id": 6,
       "title": "Learning sparse representations for human action recognition",
-      "repo_url": "oc_google_drive",
+      "repo_url": "https://github.com/AIReproducibility2018/LearningSparseActionRecognition",
       "commit": "oc_google_drive",
     },
     {
       "id": 7,
       "title": "Visualizing and understanding convolutional networks",
-      "repo_url": "No result / oc_google_drive",
+      "repo_url": "https://github.com/AIReproducibility2018/VisualizingAndUnderstandingConvolutional",
       "commit": "oc_google_drive",
+      "note": "No result",
     },
     {
       "id": 8,
@@ -65,13 +66,13 @@
     {
       "id": 11,
       "title": "Classification with noisy labels by importance reweighting",
-      "repo_url": "oc_google_drive",
+      "repo_url": "https://github.com/AIReproducibility2018/ClassificationNoisyLabelsImportanceReweighting",
       "commit": "oc_google_drive",
     },
     {
       "id": 12,
       "title": "Deep convolutional and LSTM recurrent neural networks for multimodal wearable activity recognition",
-      "repo_url": "NEEDS CODE",
+      "repo_url": "https://github.com/AIReproducibility2018/DeepWearableActivityRecognition",
       "commit": "NEEDS CODE",
       "note": "R4 TODO: define origin of method/experiment code",
     },
@@ -89,7 +90,7 @@
     {
       "id": 15,
       "title": "XGBoost: A scalable tree boosting system",
-      "repo_url": "NEEDS CODE",
+      "repo_url": "https://github.com/AIReproducibility2018/XGBoostTreeBoosting",
       "commit": "NEEDS CODE",
       "note": "TODO: define origin of method/experiment code",
     },
@@ -131,7 +132,7 @@
     {
       "id": 22,
       "title": "DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition",
-      "repo_url": "NEEDS CODE",
+      "repo_url": "https://github.com/AIReproducibility2018/DeCAFVisualRecognition",
       "commit": "NEEDS CODE",
    },
 ]

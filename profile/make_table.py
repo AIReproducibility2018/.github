@@ -12,13 +12,14 @@ df = pd.DataFrame(d)
 df = df.set_index("id")
 df["note"] = df["note"].fillna("")
 print(df)
-
+print("="*80)
+print("\n"*3)
 
 markdown = df.to_markdown()
-
-print("\n-------- MARKDOWN --------\n")
-print(markdown)
-print("\n-------- MARKDOWN --------\n")
+#
+#print("\n-------- MARKDOWN --------\n")
+#print(markdown)
+#print("\n-------- MARKDOWN --------\n")
 
 
 if __name__ == '__main__':
