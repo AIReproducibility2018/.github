@@ -15,7 +15,7 @@
       "id": 3,
       "title": "Development and investigation of efficient artificial bee colony algorithm for numerical function optimization",
       "repo_url": "https://github.com/AIReproducibility2018/DevelopmentInvestigationArtificalBeeColony",
-      "commit": "NEEDS CODE",
+      "commit": "97912b683bad8a272361065b24980028b123e310",
     },
     {
       "id": 4,
@@ -90,8 +90,7 @@
       "id": 15,
       "title": "XGBoost: A scalable tree boosting system",
       "repo_url": "https://github.com/AIReproducibility2018/XGBoostTreeBoosting",
-      "commit": "NEEDS CODE",
-      "note": "TODO: define origin of method/experiment code",
+      "commit": "53eea5f5462e9fbb595c1761135c9ada356fc85c",
     },
     {
       "id": 16,
@@ -125,13 +124,11 @@
       "id": 21,
       "title": "Clustering by fast search and find of density peaks",
       "repo_url": "https://github.com/AIReproducibility2018/ClusteringByFastSearchAndFindOfDensityPeaks",
-      "commit": "3fcd0b983ab853e062f03b7e6ec8a3ea1945828d",
-      "note": "TODO: R4, define origin of method/experiment code",
+      "commit": "af57b1f1ff499f73066ddca2305ce8bfe8a275b7",
     },
     {
       "id": 22,
       "title": "DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition",
-      "repo_url": "https://github.com/AIReproducibility2018/DeCAFVisualRecognition",
-      "commit": "NEEDS CODE",
+      "repo_url": "No result",
    },
 ]
