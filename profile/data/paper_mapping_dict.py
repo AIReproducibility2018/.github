@@ -4,7 +4,6 @@
       "title": "Measuring the objectness of image windows",
       "repo_url": "https://github.com/AIReproducibility2018/MeasuringTheObjectnessOfImageWindows",
       "commit": "557591c3b7867756a4e3481980579953fd2a9c9e",
-      "note": "R4 TODO: define origin of method/experiment code"
     },
     {
       "id": 2,
@@ -22,27 +21,27 @@
       "id": 4,
       "title": "Blind Image Quality Assessment: A natural scene statistics approach in the DCT domain",
       "repo_url": "https://github.com/AIReproducibility2018/BlindImageQualityAssessment",
-      "commit": "oc_google_drive",
-      "note": "R4 TODO: define origin of method/experiment code"
+      "commit": "284596246ceb42eae711058cc2cb4d26a30a2679",
+      "note": "Code is not ours, see repo for details."
     },
     {
       "id": 5,
       "title": "Cooperatively Coevolving particle swarm optimization for large scale optimization",
       "repo_url": "https://github.com/AIReproducibility2018/CooperativelyCoevolvingPSO",
-      "commit": "oc_google_drive",
+      "commit": "a259367f825ff1eb05e11ed26f8ae11dc1279cce",
     },
     {
       "id": 6,
       "title": "Learning sparse representations for human action recognition",
       "repo_url": "https://github.com/AIReproducibility2018/LearningSparseActionRecognition",
-      "commit": "oc_google_drive",
+      "commit": "dfdde43f48af82ad6f672c95324046ab893f3e0a",
     },
     {
       "id": 7,
       "title": "Visualizing and understanding convolutional networks",
       "repo_url": "https://github.com/AIReproducibility2018/VisualizingAndUnderstandingConvolutional",
-      "commit": "oc_google_drive",
-      "note": "No result",
+      "commit": "2da7cddcb0a04abdb2e5d9eaf466c2b7554c99a0",
+      "note": "No result were produced.",
     },
     {
       "id": 8,
@@ -67,14 +66,14 @@
       "id": 11,
       "title": "Classification with noisy labels by importance reweighting",
       "repo_url": "https://github.com/AIReproducibility2018/ClassificationNoisyLabelsImportanceReweighting",
-      "commit": "oc_google_drive",
+      "commit": "e3635997d58f792466211be7c017735e8751c21a",
     },
     {
       "id": 12,
       "title": "Deep convolutional and LSTM recurrent neural networks for multimodal wearable activity recognition",
       "repo_url": "https://github.com/AIReproducibility2018/DeepWearableActivityRecognition",
-      "commit": "NEEDS CODE",
-      "note": "R4 TODO: define origin of method/experiment code",
+      "commit": "56a6e9dcded3545602290877a6af5e799c464a2f",
+      "note": "Code is not ours, see repo for details.",
     },
     {
       "id": 13,
